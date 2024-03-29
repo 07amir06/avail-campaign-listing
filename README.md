@@ -1,9 +1,9 @@
 # Avail Clash of Nodes Listing
 
-This is the official repo for the Karnot CLI and the Avail Clash of Nodes campaign. If you want your app chain
+This is the website official repo for the Karnot CLI and the Avail Clash of Nodes campaign. If you want your app chain
 to be listed and ranked for the campaign, please create a PR on this repo which adds a JSON in the following
 format to listing.json.
-
+abd hh back BH how 
 ```json
 {
   "name": "my_app_chain",
